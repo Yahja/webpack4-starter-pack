@@ -7,7 +7,7 @@ import webpackjpg from './assets/images/JacketsInfantil-01.jpg'
 function component (){
     const element = document.createElement('div');
 
-    element.innerHTML = _.join(['Hello', ' Checkout'], '');
+    element.innerHTML = _.join(['Hello', ' Webpack Starter Pack'], '');
     element.classList.add('hello');
 
     return element;
