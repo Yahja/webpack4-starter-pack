@@ -37,7 +37,7 @@
   "dependencies": {
     "D": "^1.0.0",
     "cross-env": "^5.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "webpack-dev-server": "^3.7.2"
   }
 }
